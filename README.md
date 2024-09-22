@@ -113,3 +113,87 @@ To accommodate different market segments and price points, the GTV Certification
 6. **Ongoing Compliance:** Regular audits and periodic re-certifications ensure continued adherence to the standards.
 
 For a detailed overview of the certification process, please refer to the [Certification Process](docs/Certification-Process.md) document.
+
+## Repository Structure 
+
+GTV-Certification-Standard/
+├── README.md
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── LICENSE
+├── docs/
+│   ├── Introduction.md
+│   ├── Purpose.md
+│   ├── Scope.md
+│   ├── Definitions.md
+│   ├── Performance-Requirements.md
+│   ├── Certification-Process.md
+│   ├── Consumer-Awareness.md
+│   ├── Feedback-Standard-Evolution.md
+│   ├── Branding-Marketing.md
+│   ├── Certification-Tiers.md
+│   ├── Energy-Efficiency-and-Sustainability.md
+│   ├── Security-and-Privacy.md
+│   ├── Accessibility-Features.md
+│   ├── Support-and-Warranty.md
+│   ├── Implementation-Steps.md
+│   └── ... (additional sections as needed)
+├── assets/
+│   ├── logo/
+│   │   └── GTV_Logo.png
+│   ├── images/
+│   │   └── ... (other images and media assets)
+│   └── branding/
+│       └── ... (branding guidelines, color palettes, etc.)
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   └── workflows/
+│       └── ci.yml (for GitHub Actions, if applicable)
+├── scripts/
+│   └── ... (automation scripts, if any)
+├── tests/
+│   └── ... (testing scripts or documentation on testing procedures)
+├── examples/
+│   └── ... (sample certifications, mock-ups, etc.)
+└── tools/
+    └── ... (utility tools, documentation generators, etc.) 
+
+
+- **docs/**: Contains all detailed documentation and standards.
+- **assets/**: Stores images, logos, and other media assets.
+- **.github/**: Holds GitHub-specific configurations like issue and pull request templates.
+
+## Contributing
+
+We welcome contributions from the community to help refine and enhance the GTV Certification Standard. Whether you're an industry expert, a developer, a gamer, or simply passionate about gaming technology, your input is valuable.
+
+### Guidelines
+
+- **Fork the Repository:** Create your own copy of the repository.
+- **Create a Branch:** Make a feature branch for your changes.
+- **Commit Changes:** Write clear and descriptive commit messages.
+- **Open a Pull Request:** Submit your changes for review.
+
+For detailed contribution guidelines, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
+
+### Code of Conduct
+
+We strive to maintain a respectful and inclusive environment. Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when interacting with the community.
+
+## Licensing
+
+The GTV Certification Standard is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE). You are free to share and adapt the material for any purpose, even commercially, as long as you provide appropriate credit.
+
+## Contact
+
+For questions, suggestions, or support, please reach out to our [contact team](mailto:gtv-certification@yourdomain.com) or join our [community discussions](https://github.com/)
+## Acknowledgements
+
+Thank you to all the contributors, industry experts, and community members who have supported the development of the GTV Certification Standard. Your dedication and expertise are invaluable to creating a trusted and effective benchmark for gaming TVs.
+
+---
+
+**Join us in setting the standard for the future of gaming televisions!**
